@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zwiBmLON1Y=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\F#\\FSharp_learning\\lecture01\\lecture01.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chens\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
