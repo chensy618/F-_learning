@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dF5/OjbSU+s=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\F#\\Loops\\Loops.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chens\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

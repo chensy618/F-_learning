@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHZH+E1ePaA=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\F#\\Cards\\Cards.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chens\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
