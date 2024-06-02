@@ -7,11 +7,11 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("Loops")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("CardGameDemo")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
 [<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f8cb13aecb761cb82e62fa1ed513335233cc337")>]
-[<assembly: System.Reflection.AssemblyProductAttribute("Loops")>]
-[<assembly: System.Reflection.AssemblyTitleAttribute("Loops")>]
+[<assembly: System.Reflection.AssemblyProductAttribute("CardGameDemo")>]
+[<assembly: System.Reflection.AssemblyTitleAttribute("CardGameDemo")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
 do()
