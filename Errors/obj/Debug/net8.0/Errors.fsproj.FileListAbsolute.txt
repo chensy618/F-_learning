@@ -1,0 +1,5 @@
+D:\Github\F#\Errors\obj\Debug\net8.0\Errors.fsproj.AssemblyReference.cache
+D:\Github\F#\Errors\obj\Debug\net8.0\Errors.AssemblyInfoInputs.cache
+D:\Github\F#\Errors\obj\Debug\net8.0\Errors.AssemblyInfo.fs
+D:\Github\F#\Errors\obj\Debug\net8.0\Errors.fsproj.CoreCompileInputs.cache
+D:\Github\F#\Errors\obj\Debug\net8.0\Errors.sourcelink.json
