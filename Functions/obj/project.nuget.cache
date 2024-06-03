@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Et0HEfq7wQ=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\F#\\Functions\\Functions.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chens\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

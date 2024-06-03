@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Cards")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd991f6d6a1b9453425882a6fdae7d7b457cf8fb")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24855c7fbe304fdf0588d5bc9078a9f6150e447")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Cards")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Cards")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
