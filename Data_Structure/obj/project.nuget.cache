@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpTEpi5BuZE=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\F#\\Data_Structure\\Data_Structure.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chens\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
